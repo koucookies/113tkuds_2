@@ -14,3 +14,4 @@ class Solution {
         return k; // k 即為移除 val 後剩餘元素的數量
     }
 }
+ㄋ

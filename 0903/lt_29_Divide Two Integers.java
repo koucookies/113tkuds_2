@@ -32,3 +32,4 @@ class Solution {
         return (int) quotient; // 回傳最終商
     }
 }
+ㄋ
